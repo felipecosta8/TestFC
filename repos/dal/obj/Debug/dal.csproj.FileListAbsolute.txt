@@ -1,0 +1,10 @@
+C:\Users\INEX\source\repos\dal\bin\Debug\dal.dll
+C:\Users\INEX\source\repos\dal\bin\Debug\dal.pdb
+C:\Users\INEX\source\repos\dal\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\INEX\source\repos\dal\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\INEX\source\repos\dal\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\INEX\source\repos\dal\obj\Debug\dal.csproj.AssemblyReference.cache
+C:\Users\INEX\source\repos\dal\obj\Debug\dal.csproj.CoreCompileInputs.cache
+C:\Users\INEX\source\repos\dal\obj\Debug\dal.csproj.Up2Date
+C:\Users\INEX\source\repos\dal\obj\Debug\dal.dll
+C:\Users\INEX\source\repos\dal\obj\Debug\dal.pdb
